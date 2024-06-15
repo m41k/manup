@@ -31,7 +31,7 @@ EOF
 # Função para clonar o repositório
 function clone_repository {
     echo "Clonando o repositório da aplicação..."
-    git clone https://github.com/seu_usuario/seu_repositorio.git backend
+    git clone https://github.com/m41k/manup.git backend
 }
 
 # Função para instalar dependências do backend
